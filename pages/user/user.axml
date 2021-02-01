@@ -1,0 +1,3 @@
+<view onTap="jump">
+  点击 进入优惠券页面
+</view>

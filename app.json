@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/user/user",
+    "pages/menu/menu",
+    "pages/user/coupon/coupon"
+  ],
+  "window": {
+    "defaultTitle": ""
+  },
+  "tabBar": {
+    "textColor": "#999999",
+    "selectedColor": "#000000",
+    "backgroundColor": "#FFFFFF",
+    "items": [
+      {
+        "pagePath": "pages/index/index",
+        "name": "首页",
+        "icon": "",
+        "activeIcon": ""
+      },
+      {
+        "pagePath": "pages/menu/menu",
+        "name": "餐品",
+        "icon": "",
+        "activeIcon": ""
+      },
+      {
+        "pagePath": "pages/user/user",
+        "name": "我的",
+        "icon": "",
+        "activeIcon": ""
+      }
+    ]
+  }
+}

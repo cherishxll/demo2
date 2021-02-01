@@ -1,0 +1,8 @@
+{
+    "transparentTitle": "always",
+    "usingComponents": {
+                "my-navigation": "/components/navigation/navigation"
+    },
+    "pullRefresh": false,
+    "titlePenetrate": "YES"
+}

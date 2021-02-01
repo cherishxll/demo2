@@ -1,0 +1,7 @@
+<view class="page-title" style="{{height:titleBarHeight+statusBarHeight+'px',paddingTop:statusBarHeight+'px'}}">
+        <view class="locationBox" >
+            <view class="locationBox-left"></view>
+            <view class="locationBox-center">{{navbarData.address?navbarData.address:navbarData.errorDingText}}</view>
+            <view class="locationBox-right"></view>
+        </view>
+</view>
